@@ -1,0 +1,12 @@
+{
+  "name": "backend_training",
+  "version": "1.0.0",
+  "description": "Project to learn node.js usage",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
